@@ -1,9 +1,9 @@
 ```markdown
 # Research Notebook
 
-## GAMOS — COPSolver-NL Laboratory
+## COPSolver-NL Laboratory
 
-*A Virtual Research Laboratory within GAMOS*
+*A Virtual Research Laboratory developed in transparent cooperation with ChatGPT*
 
 ---
 
