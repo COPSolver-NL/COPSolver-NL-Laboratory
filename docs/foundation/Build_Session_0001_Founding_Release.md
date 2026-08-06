@@ -1,4 +1,4 @@
-# Build Session 001 — COPSolver-NL Laboratory Founding Release
+# Build Session 0001 — COPSolver-NL Laboratory Founding Release
 
 > **Version:** 1.0  
 > **Document Classification:** Canonical Foundational Document
